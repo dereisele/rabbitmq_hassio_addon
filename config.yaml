@@ -6,9 +6,13 @@ init: true
 ingress: true
 ingress_port: 15672
 ports:
+  5672/tcp: 5672
   15672/tcp: 15672
+  1883/tcp: 1883
 ports_description:
+  5672/tcp: AMQP
   15672/tcp: Web interface
+  1883/tcp: MQTT
 arch:
   - aarch64
   - amd64
