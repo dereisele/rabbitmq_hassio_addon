@@ -2,6 +2,6 @@
 
 {
     "name": "Rabbitmq",
-    "url": "https://github.com/ramonhpr/rabbitmq_hassio_addon",
-    "maintainer": "Ramon Ribeiro <rhpr1509@gmail.com>"
+    "url": "https://github.com/dereisele/rabbitmq_hassio_addon",
+    "maintainer": "Alexander Eisele <alexander@eiselecloud.de>"
 }
